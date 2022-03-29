@@ -1,3 +1,3 @@
 # game-mata-mosquito
 
-[inicio.html](main/inicio.html)
+[inicio.html](inicio.html)
